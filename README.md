@@ -1,6 +1,8 @@
 # UsbSerialProgrammer
 A programmer with DTR and RTS outputs to allow programming without additional circuitry. It also supplies 3.3 V to the connected device.
 
+<img src="UsbSerialProgrammer3D.png" alt="3D view" width="600"/>
+
 Pinout (pin 1 on front left side):
 
 | Pin | Function    |
